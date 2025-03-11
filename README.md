@@ -35,16 +35,6 @@ A **Convolutional Neural Network (CNN)** is a deep learning architecture that:
 
 ---
 
-## 2D Convolution Explained
-
-The mathematical operation at the heart of CNNs:
-
-```math
-Output(x,y) = \sum_{i=-k}^{k} \sum_{j=-k}^{k} Input(x+i,y+j) \cdot Kernel(i,j)
-
-
----
-
 ## Benchmark Results
 
 ### Test Configuration
